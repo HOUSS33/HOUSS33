@@ -7,3 +7,6 @@ I’m passionate about transforming ideas into dynamic web applications and solv
 🔹 Languages: Python, C, JavaScript, and always exploring new technologies and refining my skills.
 
 Let’s connect and build something amazing together! 🌟
+
+
+Rust	Python	JavaScript	PHP	Bash	Linux	Laravel	Vue	Docker	MySQL	PostgreSQL	Git
